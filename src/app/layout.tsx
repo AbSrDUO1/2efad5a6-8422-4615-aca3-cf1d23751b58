@@ -16,7 +16,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Xeven",
-  description: "Deliver a simple, engaging single-page SaaS landing with clear sections and in-page navigation—no backend or payments, just content and visuals.",
+  description: "Deliver a simple, engaging single-page SaaS landing with clear sections and in-page navigation.",
 };
 
 export default function RootLayout({
