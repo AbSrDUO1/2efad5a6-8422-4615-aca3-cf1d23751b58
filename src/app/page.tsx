@@ -70,7 +70,6 @@ export default function Home() {
             { items: [{ label: "Terms of Service", onClick: () => console.log('Terms clicked') }] },
             { items: [{ label: "Contact", onClick: () => console.log('Contact clicked') }] },
           ]}
-          copyrightText="© 2023 Xeven. All rights reserved."
           onPrivacyClick={() => console.log('Privacy clicked')}
         />
       </div>
